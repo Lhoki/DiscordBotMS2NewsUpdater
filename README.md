@@ -1,0 +1,1 @@
+# DiscordBotMS2NewsUpdater
